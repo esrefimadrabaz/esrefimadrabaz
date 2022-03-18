@@ -8,7 +8,7 @@
 
 - 📫 How to reach me 
 
- [Mail 📧](mailto:ozgencogz@gmail.com)
+ [Mail 📧 -> (ozgencogz@gmail.com)](mailto:ozgencogz@gmail.com)
  
  [LinkedIn 🔗](https://www.linkedin.com/in/ogz-ozgenc/)
 
