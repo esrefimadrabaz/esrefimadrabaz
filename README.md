@@ -8,7 +8,7 @@
 
 - 📫 How to reach me 
 
- [Mail 📧](mailto:ozgencogz@gmail.com?subject=[GitHub]%20Hello%20Oguz)
+ [Mail 📧](mailto:ozgencogz@gmail.com)
  
  [LinkedIn 🔗](https://www.linkedin.com/in/ogz-ozgenc/)
 
