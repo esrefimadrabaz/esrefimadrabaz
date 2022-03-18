@@ -1,6 +1,6 @@
 # 👋 Hi
 
-<img width=200 align="left" src="https://user-images.githubusercontent.com/49105196/159004387-e9863b66-a402-4129-a8f1-6e9cfadf5363.png" />
+<img width=300 align="left" src="https://user-images.githubusercontent.com/49105196/159007214-ae20659b-02e5-4d42-842d-91dd567fe8d4.png" />
 
 - Hello, I’m @esrefimadrabaz
 - I'm a passionate software developer living in Turkey. I love being part of development of any sort of technology. I am constantly trying to learn new tools, frameworks, langauges. I build things on my GitHub profile. 
@@ -18,5 +18,4 @@
 esrefimadrabaz/esrefimadrabaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
 
